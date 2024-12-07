@@ -1,5 +1,5 @@
 datos/*
-!datos/.gitkeep
+!datos/README.md
 train_test_spectrograms/test/*
 train_test_spectrograms/train/*
 data.ipynb
