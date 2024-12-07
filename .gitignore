@@ -1,4 +1,4 @@
-data/*
+datos/*
 train_test_spectrograms/test/*
 train_test_spectrograms/train/*
 data.ipynb
